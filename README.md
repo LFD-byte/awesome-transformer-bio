@@ -1,6 +1,6 @@
 # awesome-transformer-bio
 
-A curated list of awesome transformer applications in the field of computational biology
+A curated list of awesome transformer applications in the field of computational biology.
 
 ## 2025
 
@@ -29,6 +29,9 @@ A curated list of awesome transformer applications in the field of computational
 - **2025** | ARNLE model identifies prevalence potential of SARS-CoV-2 variants | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00919-2)
 - **2025** | Paying attention to the SARS-CoV-2 dialect : a deep neural network approach to predicting novel protein mutations | [Communications Biology](https://www.nature.com/articles/s42003-024-07262-7#Sec16)
 - **2025** | Attention-based deep learning for accurate cell image analysis | [Scientific Reports](https://www.nature.com/articles/s41598-025-85608-9)
+- **2025** | A unified cross-attention model for predicting antigen binding specificity to both HLA and TCR molecules | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00973-w)
+- **2025** | DNA promoter task-oriented dictionary mining and prediction model based on natural language technology | [Scientific Reports](https://www.nature.com/articles/s41598-024-84105-9)
+- **2025** | Self-supervision advances morphological profiling by unlocking powerful image representations | [Scientific Reports](https://www.nature.com/articles/s41598-025-88825-4)
 ## 2024 
 
 - **2024** | Discovering CRISPR-Cas system with self-processing pre-crRNA capability by foundation models | [Nature Communications](https://www.nature.com/articles/s41467-024-54365-0)
@@ -72,7 +75,7 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | SCS: cell segmentation for high-resolution spatial transcriptomics | [Nature Methods](https://www.nature.com/articles/s41592-023-01939-3)
 - **2024** | Deeper evaluation of a single-cell foundation model | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00949-w)
 - **2024** | Automated real-world data integration improves cancer outcome prediction | [Nature](https://www.nature.com/articles/s41586-024-08167-5)
-- - **2024** | A community effort to optimize sequence-based deep learning models of gene regulation | [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02414-w)
+- **2024** | A community effort to optimize sequence-based deep learning models of gene regulation | [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02414-w)
 - **2024** | Generalized AI models for genomics applications | [Nature Methods](https://www.nature.com/articles/s41592-024-02524-y)
 - **2024** | Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering | [Cell Research](https://www.nature.com/articles/s41422-024-00989-2)
 - **2024** | Prediction of recurrence risk in endometrial cancer with multimodal deep learning | [Nature Medicine](https://www.nature.com/articles/s41591-024-02993-w)
@@ -80,6 +83,16 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | Language models for biological research: a primer | [Nature Methods](https://www.nature.com/articles/s41592-024-02354-y)
 - **2024** | Detecting anomalous anatomic regions in spatial transcriptomics with STANDS | [Nature Communications](https://www.nature.com/articles/s41467-024-52445-9)
 - **2024** | Predicting cell type-specific epigenomic profiles accounting for distal genetic effects | [Nature Communications](https://www.nature.com/articles/s41467-024-54441-5)
+- **2024** | CRISPR-GPT: An LLM Agent for Automated Design of  Gene-Editing Experiments | [arxiv](https://arxiv.org/pdf/2404.18021v1)
+- **2024** | DeepFM-Crispr: Prediction of CRISPR On-Target  Effects via Deep Learning | [NLP4Science](https://aclanthology.org/2024.nlp4science-1.2/)
+- **2024** | Discovering CRISPR-Cas system with self-processing pre-crRNA capability by foundation models | [Nature Communications](https://www.nature.com/articles/s41467-024-54365-0)
+- **2024** | RNA-GPT: Multimodal Generative System for RNA Sequence Understanding | [Workshop, NeurIPS](https://arxiv.org/abs/2411.08900)
+- **2024** | LangCell: language-cell pre-training for cell identity understanding | [arXiv](https://arxiv.org/abs/2405.06708)
+- **2024** | scMulan: a multitask generative pre-trained language model for single-cell analysis | [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
+- **2024** | GeneCompass: deciphering universal gene regulatory mechanisms with a knowledge-informed cross-species foundation model | [Cell Research](https://www.nature.com/articles/s41422-024-01034-y)
+- **2024** | scmFormer Integrates Large-Scale Single-Cell Proteomics and Transcriptomics Data by Multi-Task Transformer | [Advanced Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202307835)
+- **2024** | RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks | [arXiv](https://arxiv.org/abs/2403.00043)
+- **2024** | Delineating the effective use of self-supervised learning in single-cell genomics | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00934-3)
 
 ## 2023
 
@@ -96,10 +109,14 @@ A curated list of awesome transformer applications in the field of computational
 - **2023** | Single-cell biological network inference using a heterogeneous graph transformer | [Nature Communications](https://www.nature.com/articles/s41467-023-36559-0)
 - **2023** | PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces | [Nature Communications](https://www.nature.com/articles/s41467-023-37701-8)
 - **2023** | Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews | [Nature Mental Health](https://www.nature.com/articles/s44220-023-00109-w)
-
+- **2023** | Generative pretraining from large-scale transcriptomes for single-cell deciphering | [Iscience](https://www.cell.com/iscience/fulltext/S2589-0042(23)00613-2)
+- **2023** | Transfer learning enables predictions in network biology | [Nature](https://www.nature.com/articles/s41586-023-06139-9)
+- **2023** | CellPLM: pre-training of cell language model beyond single cells | [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
+- **2023** | CodonBERT: Large Language Models for mRNA design and optimization | [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v1)
 
 ## 2022
 
 - **2022** | Transformer-based protein generation with regularized latent space optimization | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00532-1)
 - **2022** | scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00534-z)
 - **2022** | Learning the histone codes with large genomic windows and three-dimensional chromatin interactions using transformer | [Nature Communications](https://www.nature.com/articles/s41467-022-34152-5)
+- **2022** | Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions | [ICML](https://arxiv.org/abs/2204.00300)
