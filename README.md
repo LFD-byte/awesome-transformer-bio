@@ -49,7 +49,6 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | Large-scale foundation model on single-cell transcriptomics | [Nature Methods](https://www.nature.com/articles/s41592-024-02305-7)
 - **2024** | DNA language model GROVER learns sequence context in the human genome | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00872-0)
 - **2024** | A foundational large language model for edible plant genomes | [Communications Biology](https://www.nature.com/articles/s42003-024-06465-2)
-- **2024** | Precious2GPT: the combination of multiomics pretrained transformer and conditional diffusion for artificial multi-omics multi-species multi-tissue sample generation | [npj Aging](https://www.nature.com/articles/s41514-024-00163-3#citeas)
 - **2024** | scGraphformer: unveiling cellular heterogeneity and interactions in scRNA-seq data using a scalable graph transformer network | [Communications Biology](https://www.nature.com/articles/s42003-024-07154-w)
 - **2024** | Protein embeddings predict binding residues in disordered regions | [Scientific Reports](https://www.nature.com/articles/s41598-024-64211-4)
 - **2024** | Sliding-attention transformer neural architecture for predicting T cell receptor–antigen–human leucocyte antigen binding | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00901-y)
@@ -93,6 +92,19 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | scmFormer Integrates Large-Scale Single-Cell Proteomics and Transcriptomics Data by Multi-Task Transformer | [Advanced Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202307835)
 - **2024** | RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks | [arXiv](https://arxiv.org/abs/2403.00043)
 - **2024** | Delineating the effective use of self-supervised learning in single-cell genomics | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00934-3)
+- **2024** | A long-context language model for deciphering and generating bacteriophage genomes | [Nature Communications](https://www.nature.com/articles/s41467-024-53759-4)
+- **2024** | Accurate prediction of RNA secondary structure including pseudoknots through solving minimum-cost flow with learned potentials | [Communications Biology](https://www.nature.com/articles/s42003-024-05952-w)
+- **2024** | Generative language models on nucleotide sequences of human genes | [Scientific Reports](https://www.nature.com/articles/s41598-024-72512-x)
+- **2024** | Deep learning prediction of glycopeptide tandem mass spectra powers glycoproteomics | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00875-x)
+- **2024** | Evaluating generalizability of artificial intelligence models for molecular datasets | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00931-6)
+- **2024** | Codon language embeddings provide strong signals for use in protein engineering | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00791-0)
+- **2024** | Riboformer: a deep learning framework for predicting context-dependent translation dynamics | [Nature Communications](https://www.nature.com/articles/s41467-024-46241-8)
+- **2024** | Deciphering cell types by integrating scATAC-seq data with genome sequences | [Nature Computational Science](https://www.nature.com/articles/s43588-024-00622-7)
+- **2024** | Reply to: Deeper evaluation of a single-cell foundation model | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00948-x)
+- **2024** | Annotating protein functions via fusing multiple biological modalities | [Communications Biology](https://www.nature.com/articles/s42003-024-07411-y)
+- **2024** | OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization | [Nature Methods](https://www.nature.com/articles/s41592-024-02272-z)
+- **2024** | Large language models improve annotation of prokaryotic viral proteins | [Nature Microbiology](https://www.nature.com/articles/s41564-023-01584-8) 
+- **2024** | State-specific protein–ligand complex structure prediction with a multiscale deep generative model | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00792-z)
 
 ## 2023
 
