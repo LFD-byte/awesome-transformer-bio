@@ -105,6 +105,12 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | OpenFold: retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization | [Nature Methods](https://www.nature.com/articles/s41592-024-02272-z)
 - **2024** | Large language models improve annotation of prokaryotic viral proteins | [Nature Microbiology](https://www.nature.com/articles/s41564-023-01584-8) 
 - **2024** | State-specific protein–ligand complex structure prediction with a multiscale deep generative model | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00792-z)
+- **2024** | Combination of MRI-based prediction and CRISPR/Cas12a-based detection for IDH genotyping in glioma | [npj Precision Oncology](https://www.nature.com/articles/s41698-024-00632-8)
+- **2024** | Foundation model for cancer imaging biomarkers | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00807-9)
+- **2024** | Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data | [Nature Methods](https://www.nature.com/articles/s41592-023-02130-4)
+- **2024** | Deep learning predicts the 1-year prognosis of pancreatic cancer patients using positive peritoneal washing cytology | [Scientific Reports](https://www.nature.com/articles/s41598-024-67757-5)
+- **2024** | A natural language processing system for the efficient extraction of cell markers | [Scientific Reports](https://www.nature.com/articles/s41598-024-72204-6)
+- **2024** | Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology | [Nature Biotechnology](https://www.nature.com/articles/s41587-023-02019-9)
 
 ## 2023
 
