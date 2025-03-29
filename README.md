@@ -32,6 +32,10 @@ A curated list of awesome transformer applications in the field of computational
 - **2025** | A unified cross-attention model for predicting antigen binding specificity to both HLA and TCR molecules | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00973-w)
 - **2025** | DNA promoter task-oriented dictionary mining and prediction model based on natural language technology | [Scientific Reports](https://www.nature.com/articles/s41598-024-84105-9)
 - **2025** | Self-supervision advances morphological profiling by unlocking powerful image representations | [Scientific Reports](https://www.nature.com/articles/s41598-025-88825-4)
+- **2025** | Multimodal learning for mapping genotype–phenotype dynamics | [Nature Computational Science](https://www.nature.com/articles/s43588-024-00765-7)
+- **2025** | A vision–language foundation model for precision oncology | [Nature](https://www.nature.com/articles/s41586-024-08378-w)
+- **2024** | In-context learning enables multimodal large language models to classify cancer pathology images | [Nature Communications](https://www.nature.com/articles/s41467-024-51465-9?fromPaywallRec=false)
+- **2025** | Interpretable multimodal transformer for prediction of molecular subtypes and grades in adult-type diffuse gliomas | [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01530-4)
 ## 2024 
 
 - **2024** | Discovering CRISPR-Cas system with self-processing pre-crRNA capability by foundation models | [Nature Communications](https://www.nature.com/articles/s41467-024-54365-0)
@@ -111,6 +115,8 @@ A curated list of awesome transformer applications in the field of computational
 - **2024** | Deep learning predicts the 1-year prognosis of pancreatic cancer patients using positive peritoneal washing cytology | [Scientific Reports](https://www.nature.com/articles/s41598-024-67757-5)
 - **2024** | A natural language processing system for the efficient extraction of cell markers | [Scientific Reports](https://www.nature.com/articles/s41598-024-72204-6)
 - **2024** | Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology | [Nature Biotechnology](https://www.nature.com/articles/s41587-023-02019-9)
+- **2024** | Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering | [Cell Research](https://www.nature.com/articles/s41422-024-00989-2)
+- **2024** | Harnessing the deep learning power of foundation models in single-cell omics | [Nature Reviews Molecular Cell Biology](https://www.nature.com/articles/s41580-024-00756-6)
 
 ## 2023
 
